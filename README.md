@@ -1,15 +1,14 @@
 ![logo](https://github.com/AnishThakur22/AnishThakur22/blob/main/5730d70b-2705-4291-9313-7cd97172df83.jpeg)
-<h1 align="center">Hi 👋, I'm Anish Kumar Thakur</h1>
+<h1 align="center">Hi 👋, I'm Anish Thakur</h1>
 <h3 align="center">A passionate Data Engineer from Nepal</h3>
 
-<img align="right" alt="coding" width"100" src="![image](https://github.com/user-attachments/assets/37d6fb31-cabd-444d-814a-68450c8df7cf)
-">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishthakur22&label=Profile%20views&color=0e75b6&style=flat" alt="anishthakur22" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
-
 - 👨‍💻 All of my projects are available https://www.linkedin.com/in/anish-thakur-858909256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📫 How to reach me **kumaranish981234567@gmail.com**
+
+- ⚡ Fun fact **I am funny😅**
 
 - ⚡ Fun fact **I am Comedian**
 
