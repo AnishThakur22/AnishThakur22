@@ -1,3 +1,4 @@
+![logo](https://github.com/AnishThakur22/AnishThakur22/blob/main/5730d70b-2705-4291-9313-7cd97172df83.jpeg)
 <h1 align="center">Hi 👋, I'm Anish Kumar Thakur</h1>
 <h3 align="center">A passionate Data Engineer from Nepal</h3>
 
