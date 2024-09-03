@@ -1,8 +1,8 @@
-![logo](https://github.com/AnishThakur22/AnishThakur22/blob/main/Untitled%20design%20(1).png)
+![logo](https://github.com/AnishThakur22/AnishThakur22/blob/main/5730d70b-2705-4291-9313-7cd97172df83.jpeg)
 <h1 align="center">Hi 👋, I'm Anish Kumar Thakur</h1>
 <h3 align="center">A passionate Data Engineer from Nepal</h3>
 
-<img align="right" alt="coding" width="100" src="![images](https://github.com/user-attachments/assets/7de298cd-4e02-423a-8d22-082ff9d85248)
+<img align="right" alt="coding" width"100" src="![image](https://github.com/user-attachments/assets/37d6fb31-cabd-444d-814a-68450c8df7cf)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishthakur22&label=Profile%20views&color=0e75b6&style=flat" alt="anishthakur22" /> </p>
 
@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available https://www.linkedin.com/in/anish-thakur-858909256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📫 How to reach me **kumaranish981234567@gmail.com**
 
+- ⚡ Fun fact **I am Comedian**
 - ⚡ Fun fact **I am Comedian**
 
 <h3 align="left">Connect with me:</h3>
